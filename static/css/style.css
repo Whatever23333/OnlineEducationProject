@@ -1138,7 +1138,7 @@ textarea:focus {
 }
 
 .dialogbox .selectOption {
-    color: #7C7C7C;
+    color: #3A5FCD;
     background: transparent url("../images/select_arrow2.png") no-repeat scroll 93% 60%;
     display: block;
     font-size: 12px;
@@ -1316,7 +1316,7 @@ textarea:focus {
 }
 
 .selectOption {
-    color: #67ae56;
+    color: #3A5FCD;
     background: url('../images/select_arrow.png') no-repeat 85% 60%;
     display: block;
     cursor: pointer;
@@ -1324,7 +1324,7 @@ textarea:focus {
 
 .selectMenu {
     width: 90px;
-    border: 1px solid #67ae56;
+    border: 1px solid #3A5FCD;
     background: #fff;
     display: none;
     overflow: hidden;
@@ -1342,7 +1342,7 @@ textarea:focus {
 }
 
 .selectMenu li:hover {
-    color: #67ae56;
+    color: #3A5FCD;
 }
 
 .selectContainer ul.dis {
@@ -1399,7 +1399,7 @@ textarea:focus {
 }
 
 .header .nav a:hover, .header .nav .active {
-    background: #3D9328;
+    background: #1874CD;
 }
 
 .header .nav li:last-child a {
